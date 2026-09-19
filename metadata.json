@@ -1,0 +1,7 @@
+{
+  "name": "Google Maps Lead Scraper",
+  "description": "Scrape Google Maps for local businesses without websites and export qualified leads to CSV for outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
